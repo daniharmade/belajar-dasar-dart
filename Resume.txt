@@ -1,0 +1,13 @@
+- Pengertian Dart
+Dart merupakan bahasa pemrograman yang awal nya di buat untuk Frontend (web dan mobile), namun Dart juga sebenarnya bisa digunakan untuk Backend, namun memang lebih populer penggunaannya di Frontend
+
+- Dart memerlukan Dart SDK untuk membuat, menjalankan projectnya. Download di: https://dart.dev/get-dart 
+- Dibahasa pemrograman dart, kita melakukan coding dalam folder bin
+- Cara membuat project Dart: dart create nama_project
+- Untuk menjalankan dart, harus membuat main function seperti bhs pemrograman Kotlin, example:
+void main() {
+    print('Hello, World!');
+}
+
+- Cara menjalankan dart: dart run bin/hello_world.dart
+- 
